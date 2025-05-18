@@ -11,4 +11,6 @@ ABOUT GROQ API KEY:
 
 	GROQ_API_KEY=your_api_key 			(No spaces around = and no quotes)
 
-5. Now code and enjoy.
+5. Ensure .env is in .gitignore (You have to create .gitignore file then paste .env in it)
+
+6. Now code and enjoy.
