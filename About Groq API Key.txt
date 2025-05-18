@@ -1,0 +1,14 @@
+ABOUT GROQ API KEY:
+===================
+
+1. Create Account/Sign-in into Groq AI. 
+
+2. Then go to Groq API Keys(https://console.groq.com/keys) and click on 'Create API Key'.
+
+3. Give a name. Then the Key will be generated. Copy that key.
+
+4. Save the API Key in the .env file only, in the below format:
+
+	GROQ_API_KEY=your_api_key 			(No spaces around = and no quotes)
+
+5. Now code and enjoy.
